@@ -29,10 +29,12 @@ Failed campaigns also peaked in May, but remained at that level until August. Fa
 #### Conclusions
 
 May is the best month to launch theater campaigns because...
+    
     1) May had the highest number of successful campaigns
     2) The difference between successful campaigns and failed compaigns also peaked in May
 
 December is the worst month to launch theater campaigns because...
+    
     1) December had the lowest number of successful campaigns
     2) The number of failed campaigns equaled the number of successful campaigns 
 
