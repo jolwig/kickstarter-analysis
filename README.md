@@ -3,6 +3,7 @@
 ## Overview of Project
 
 This is a two part analysis of the Kickstarter dataset 
+
     1) Theater outcomes based on launch date
     2) Play outcomes based on fundraising goals
 
