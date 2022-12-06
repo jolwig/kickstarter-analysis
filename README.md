@@ -24,10 +24,9 @@ Outcomes are speparated into three categories:
 Launch date marks the beginning of a campaign. For this analysis, I grouped launch dates by month.
 
 The most notable feature is the sharp increase of successful compaigns in the month of May. Successful campaigns decreased gradually from May to December. 
-Failed campaigns also peaked in May, but remained at that level until August. Failed campaigns dropped in September then returned to peak level in October then dropped again in November.
-The number of canceled campaigns remained relativly constant throughout the year.
+Failed campaigns also peaked in May, but remained at that level until August. Failed campaigns dropped in September then returned to peak level in October then dropped again in November. The number of canceled campaigns remained relatively constant throughout the year.
 
-    ### Conclusions
+#### Conclusions
 
 May is the best month to launch theater campaigns because...
     1) May had the highest number of successful campaigns
@@ -45,12 +44,12 @@ Outcomes for this analysis follow the same criteria as the outcomes in the "Outc
 
 Successful and failed campaigns have a strong negative correlation. There were not any canceled campaigns. Campaigns with a lower a fundraising goal are more likely to be successful. Campaigns with a higher fundraising goal are more likely to fail.
 
-    ### Conclusions
+#### Conclusions
 
 Louise should keep fundraising goals below $45000. Campaigns with a fundraising goal above $45000 are significantly more likely to fail. 
     
 
-###Limitations
+### Limitations
 
 We do not know what the expenses were for each campaign. If Louise's objective is to maximize profit, we would need to know this.
 
