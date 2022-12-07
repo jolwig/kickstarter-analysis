@@ -26,7 +26,7 @@ Launch date marks the beginning of a campaign. For this analysis, I grouped laun
 The most notable feature is the sharp increase of successful compaigns in the month of May. Successful campaigns decreased gradually from May to December. 
 Failed campaigns also peaked in May, but remained at that level until August. Failed campaigns dropped in September then returned to peak level in October then dropped again in November. The number of canceled campaigns remained relatively constant throughout the year.
 
-![Outcomes_vs_Goals](kickstarter-analysis/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/jolwig/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 #### Conclusions
 
