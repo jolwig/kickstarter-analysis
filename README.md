@@ -48,6 +48,8 @@ Outcomes for this analysis follow the same criteria as the outcomes in the "Outc
 
 Successful and failed campaigns have a strong negative correlation. There were not any canceled campaigns. Campaigns with a lower a fundraising goal are more likely to be successful. Campaigns with a higher fundraising goal are more likely to fail.
 
+![Theater_Outcomes_vs_Launch](https://github.com/jolwig/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 #### Conclusions
 
 Louise should keep fundraising goals below $45000. Campaigns with a fundraising goal above $45000 are significantly more likely to fail. 
