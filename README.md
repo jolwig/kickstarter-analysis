@@ -26,7 +26,7 @@ Launch date marks the beginning of a campaign. For this analysis, I grouped laun
 The most notable feature is the sharp increase of successful compaigns in the month of May. Successful campaigns decreased gradually from May to December. 
 Failed campaigns also peaked in May, but remained at that level until August. Failed campaigns dropped in September then returned to peak level in October then dropped again in November. The number of canceled campaigns remained relatively constant throughout the year.
 
-![Outcomes_vs_Goals](https://github.com/jolwig/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Theater_Outcomes_vs_Launch](https://github.com/jolwig/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 #### Conclusions
 
@@ -48,7 +48,7 @@ Outcomes for this analysis follow the same criteria as the outcomes in the "Outc
 
 Successful and failed campaigns have a strong negative correlation. There were not any canceled campaigns. Campaigns with a lower a fundraising goal are more likely to be successful. Campaigns with a higher fundraising goal are more likely to fail.
 
-![Theater_Outcomes_vs_Launch](https://github.com/jolwig/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals](https://github.com/jolwig/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 #### Conclusions
 
